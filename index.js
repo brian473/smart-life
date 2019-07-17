@@ -1,1 +1,1 @@
-require('./api/bin/www');
+require('./tuya');
