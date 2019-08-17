@@ -3,3 +3,7 @@
 node_modules/
 .gradle/
 gradle/
+libs/tuya/keys.json
+build/
+libs/tuya/package-lock.json
+libs/tuya/devices*.json
